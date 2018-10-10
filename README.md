@@ -8,7 +8,7 @@ When completing this coding challenge, please organize your code as if it were g
 ### Functional Spec
 ----------------------------
 
-Create a service that allows a user to **browse block & transaction data** on the Blockchain.org **blockchain**. The user should be able to:
+Create a simple web app that allows a user to **browse block & transaction data** from the Blockchain.org **blockchain**. The user should be able to:
 
 - View a single block
 - View a single transaction on a block
@@ -17,7 +17,7 @@ Create a service that allows a user to **browse block & transaction data** on th
 #### UI/UX Design
 ------------------------
 
-The UI/UX is completely up to you. Be as creative as you want while considering the user's experience when using the service. You may add additional features if you think the users will find it useful!
+The UI/UX is completely up to you. Be as creative as you want while considering the user's experience, but be prepared to explain your design decisions. You may add additional features if you think the users will find it useful!
 
 ### Technical Spec
 ---------------------------
@@ -27,7 +27,7 @@ The architecture for this service will feature only the web front-end. We'll pro
 
 #### Front-end
 
-The front-end should ideally be a single page app with a single index.html linking to JS/CSS/etc. Take this opportunity to demonstrate your HTML and CSS knowledge. Although we're leaving the choice of technology up to you, we use JavaScript frameworks such as Angular and ReactJS at Chainyard.
+The front-end should ideally be a single page app with a single index.html linking to JS/CSS/etc. Take this opportunity to demonstrate your HTML and CSS knowledge. Although we're leaving the choice of technology up to you, we use JavaScript frameworks such as ReactJS and Angular at Chainyard.
 
 
 #### Back-end
@@ -49,7 +49,7 @@ This will return a result similar to the example below:
 
 #### Hosting
 
-When you’re done, host it somewhere (e.g. on Amazon EC2, Heroku, Google AppEngine, etc.).
+When you’re done, host it somewhere (e.g. on Amazon EC2, Heroku, Google AppEngine, etc.) and provide us with the link to your hosted application when you submit.
 
 
 ### How We Review
