@@ -1,14 +1,12 @@
 Chainyard Coding Challenge
 =============
 
-This coding challenge is optional if you already have some code that you're proud of and can share with us.
-
 When completing this coding challenge, please organize your code as if it were going into production, then send us a link to the hosted repository (e.g. Github, Bitbucket...).
 
 ### Functional Spec
 ----------------------------
 
-Create a simple web app that allows a user to **browse block & transaction data** from the Blockchain.org **blockchain**. The user should be able to:
+Create a simple web app that allows a user to **browse blockchain block & transaction data** from the Blockchain.org public API. The user should be able to:
 
 - View a single block
 - View a single transaction on a block
@@ -22,12 +20,12 @@ The UI/UX is completely up to you. Be as creative as you want while considering 
 ### Technical Spec
 ---------------------------
 
-The architecture for this service will feature only the web front-end. We'll provide you with information on how to access the Blockchain.org REST API for obtaining data about blocks and transactions on the blockchain.
+The architecture for this service will feature only the web front-end. Instructions on how to access the Blockchain.org REST API for obtaining data can be found below under the Back-end heading.
 
 
 #### Front-end
 
-The front-end should ideally be a single page app with a single index.html linking to JS/CSS/etc. Take this opportunity to demonstrate your HTML and CSS knowledge. Although we're leaving the choice of technology up to you, we use JavaScript frameworks such as ReactJS and Angular at Chainyard.
+The front-end should ideally be a single page app with a single index.html linking to JS/CSS/etc. Take this opportunity to demonstrate your HTML and CSS knowledge. Although we're leaving the choice of library/framework up to you, we use ReactJS and Angular at Chainyard.
 
 
 #### Back-end
